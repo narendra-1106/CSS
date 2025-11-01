@@ -1,17 +1,18 @@
 h1{
-    color: green;
+    color:#f96900;
 }
 
 p{
-    color: red;
+    color: rgb(202, 44, 44);
 }
 
+
 button{
-    color: brown;
-    background-color: antiquewhite;
+    color: rgb(255, 255, 255);
+    background-color: rgb(114, 103, 114);
 }
 
 body{
-    background-color: yellow;
+    background-color: #65DEF1
 }
  
