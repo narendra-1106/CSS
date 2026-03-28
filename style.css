@@ -1,27 +1,17 @@
-h1 {
-    color: #F96900;
+div{
+    background-color: rgb(101, 101, 156);
+    color: white;
 }
 
-p {
-    color: rgb(202, 44, 44);
+.heading{
+    color: red;
 }
 
+/* h1 ,h2,h3 {
+    color: green;
+} */
 
 button {
-    color: rgb(255, 255, 255);
-    background-color: rgb(114, 103, 114);
-}
-
-h2 {
-    color: #FF5733;
-}
-
-body {
-    background-color: #A8DCD1;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.5;
-    border: 2px solid #000000;
+    background-color: green;
+    
 }
